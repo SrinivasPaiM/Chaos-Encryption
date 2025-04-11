@@ -1,10 +1,6 @@
-# 🔐 Lorenz Attractor Chaos Encryptor
+# 🔐 Chaos Encryptor
 
 A unique message encryption and decryption app based on **chaos theory**. This Python desktop application uses the **Lorenz attractor** to generate highly unpredictable, non-repeating encryption keys from user input — making every message encoded with beautiful math and secure randomness.
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Lorenz_system_r28_s10_b2-6666.png" alt="Lorenz Attractor" width="400"/>
-</p>
 
 ## 🚀 Features
 
